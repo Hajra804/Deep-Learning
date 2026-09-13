@@ -1,5 +1,5 @@
 # Deep-Learning
-# Deep Learning for Perception — Assignment 01
+# Deep Learning for Perception 
 
 ## Building, Breaking and Fixing a Neural Network
 
